@@ -1,2 +1,2 @@
 # Contactless-Card-Reader
-Improved version of 
+original author Viliyan Vasilev
