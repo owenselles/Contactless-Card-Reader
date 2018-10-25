@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contactless Card Reader</string>
+
+    <!-- Receiver -->
+    <string name="receiver">Receiver</string>
+    <string name="additional_receiver">Additional receiver</string>
+    <!-- - Receiver -->
+
+    <!-- Service -->
+    <string name="service">Service</string>
+    <string name="additional_service">Additional service</string>
+    <!-- - Service -->
+
+    <string name="custom_toolbar_logo">Custom toolbar logo</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_paycard_host">Host</string>
+    <string name="action_paycard_wipe">Wipe</string>
+
+    <string name="paycards">Paycards</string>
+    <string name="payments">Payments</string>
+
+    <string name="supported_paycards">Supported paycards</string>
+
+    <string name="title_activity_paycard">Paycard Activity</string>
+
+    <string name="host_apdu_description">NFC Host Apdu Service</string>
+
+    <string name="contactless">Contactless</string>
+
+    <string name="title_activity_read_paycard">Read Card</string>
+    <string name="description_activity_read_paycard">Hold contactless card near the device back in order to begin read.</string>
+
+    <string name="title_activity_host_paycard">Host Paycard</string>
+    <string name="description_activity_host_paycard">Hold your device NFC hardware near the EMV payment terminal in order to begin host.</string>
+
+    <string name="nfc_hardware_help">Device NFC hardware is located in or near the device back panel on most NFC phones and tablets.</string>
+
+    <string name="description_waiting_app_compat_activity_read_host">Waiting for card…</string>
+    <string name="description_warning_app_compat_activity_read_host">Do not move the paycard or the device until process finished.</string>
+
+    <string name="no_paycards">No paycards added</string>
+    <string name="no_payments">No payments made</string>
+
+    <string name="add_new_paycard_subtitle">Consider adding a new one.</string>
+    <string name="add_new_payment_subtitle">Consider making a new one.</string>
+
+    <string name="read">Read</string>
+    <string name="read_hint">Read…</string>
+    <string name="reading">Reading…</string>
+
+    <string name="host">Host</string>
+    <string name="host_hint">Host…</string>
+    <string name="hosting">Hosting…</string>
+
+    <string name="success_read_paycard">Success read paycard</string>
+    <string name="cannot_read_paycard">Cannot read paycard</string>
+
+    <string name="success_host_paycard">Success host paycard</string>
+    <string name="cannot_host_paycard">Cannot host paycard</string>
+
+    <string name="nfc_a">NFC A</string>
+    <string name="nfc_b">NFC B</string>
+
+    <string name="pan_var_name">mApplicationPan</string>
+    <string name="add_date_var_name">mAddDate</string>
+
+    <!-- EMV Specification Abbreviations & Terms -->
+    <string name="pse">PSE (Payment System Environment)</string>
+    <string name="ppse">PPSE (Proximity Payment System Environment)</string>
+    <string name="aid">AID (Application Identifier)</string>
+    <string name="fci">FCI (File Control Information)</string>
+    <string name="application_label">Application Label</string>
+    <string name="pdol">PDOL (Processing Options Data Object List)</string>
+    <string name="gpo">GPO (Get Processing Options)</string>
+    <string name="application_pan">Application PAN (Primary Account Number)</string>
+    <string name="cardholder_name">Cardholder Name</string>
+    <string name="application_expiration_date">Application Expiration Date</string>
+    <string name="afl">AFL (Application File Locator)</string>
+    <string name="atc">ATC (Application Transaction Counter)</string>
+    <string name="pin">PIN (Personal Identification Number)</string>
+    <string name="gac">GAC (Generate Application Cryptogram)</string>
+    <string name="log_entry">Log Entry</string>
+    <string name="log_format">Log Format</string>
+    <string name="cdol_1">CDOL1 (Card Risk Management Data Object List 1)</string>
+    <string name="cdol_2">CDOL2 (Card Risk Management Data Object List 2)</string>
+    <!-- - EMV Specification Abbreviations & Terms -->
+
+    <!-- Supported Paycards -->
+    <string name="mastercard">Mastercard (PayPass)</string>
+    <string name="maestro">Maestro (PayPass)</string>
+    <string name="visa">Visa (PayWave)</string>
+    <string name="visa_electron">Visa Electron (PayWave)</string>
+    <!-- - Supported Paycards -->
+
+    <string name="close">Close</string>
+
+    <string name="added">Added</string>
+    <string name="updated">Updated</string>
+
+    <string name="paycard_added">Paycard added</string>
+    <string name="paycard_updated">Paycard updated</string>
+
+    <string name="paycard_host_success">Paycard host is successful</string>
+    <string name="paycard_host_no_success">Paycard host may not be successful</string>
+
+    <string name="paycard_wipe_success">Paycard wipe is successful</string>
+    <string name="paycard_wipe_no_success">Paycard wipe may not be successful</string>
+    <string name="terms">By using this application you are agreeing to the following terms of use. This application is designed to read information from contactless payment cards.
+    This application will only be used to read your own payment cards where legally appropriate. This application must not be used for any illegal purposes. This application is provided as it without warranty of any kind. </string>
+</resources>

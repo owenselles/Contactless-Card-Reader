@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Custom screen margins -->
+    <dimen name="activity_margin">10dp</dimen>
+
+    <dimen name="activity_horizontal_margin">@dimen/activity_margin</dimen>
+    <dimen name="activity_vertical_margin">@dimen/activity_margin</dimen>
+
+    <dimen name="activity_margin_double">20dp</dimen>
+    <dimen name="activity_horizontal_margin_double">20dp</dimen>
+    <dimen name="activity_vertical_margin_double">20dp</dimen>
+
+    <dimen name="activity_margin_halve">5dp</dimen>
+    <dimen name="activity_horizontal_margin_halve">5dp</dimen>
+    <dimen name="activity_vertical_margin_halve">5dp</dimen>
+    <!-- - Custom screen margins -->
+
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="app_bar_height_scrolling_activity">180dp</dimen>
+</resources>
